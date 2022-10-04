@@ -33,7 +33,7 @@ public class Zmienne {
         char znak = '#';
 
         boolean slonce = true; //false
-        
+
 
     }
 }
