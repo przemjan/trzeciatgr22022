@@ -12,4 +12,9 @@ public class EqualsDemo {
             System.out.println("Te imiona różnią się");
         }
     }
+
+    // windows-r
+    // \\ubuckp student student123
+    // public/janisz/zadania2if.pdf
+
 }
