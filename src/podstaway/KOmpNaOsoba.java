@@ -1,3 +1,5 @@
+package podstaway;
+
 public class KOmpNaOsoba {
     public static void main(String[] args) {
         int osoba =7;

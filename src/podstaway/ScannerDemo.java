@@ -1,3 +1,5 @@
+package podstaway;
+
 import java.util.Scanner;
 
 public class ScannerDemo {
